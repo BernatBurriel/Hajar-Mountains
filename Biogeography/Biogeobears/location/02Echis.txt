@@ -1,0 +1,4 @@
+SPECIES	C	E	W
+E.omanensis_C	1	0	0
+E.omanensis_E	0	1	0
+E.omanensis_W_R	0	0	1

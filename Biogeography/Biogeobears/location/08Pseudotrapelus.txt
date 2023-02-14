@@ -1,0 +1,4 @@
+SPECIES	E	C	W	R
+P.jensvindumi_C	0	1	0	0
+P.jensvindumi_E	1	0	0	0
+P.jensvindumi_R_C	0	1	0	1

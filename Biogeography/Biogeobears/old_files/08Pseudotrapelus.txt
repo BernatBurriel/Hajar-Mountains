@@ -1,0 +1,6 @@
+Name	New_name	Out_In
+CENT	P.jensvindumi_C	in
+EAST	P.jensvindumi_E	in
+CW	P.jensvindumi_R_C	in
+DHOF	P.dhofarensis	out
+

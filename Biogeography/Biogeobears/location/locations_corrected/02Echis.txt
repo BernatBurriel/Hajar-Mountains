@@ -1,0 +1,4 @@
+3 3 (C E W)
+E.omanensis_C 100
+E.omanensis_E 010
+E.omanensis_W_R 001

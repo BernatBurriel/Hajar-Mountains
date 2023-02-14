@@ -1,0 +1,16 @@
+15 4 (C E I W)
+A.arnoldi_E 0100
+A.caudivolvulus_W 0001
+A.gallagheri_C 1000
+A.gallagheri_W 0001
+A.gallagheri_W_R 0001
+A.gardneri_R 0001
+A.griseonotus_I 0010
+A.margaritae_1W 0001
+A.margaritae_2W 0001
+A.margaritae_R 0001
+A.montanus_1C 1000
+A.montanus_2C 1000
+A.nasrullahi_I 0010
+A.platyrhynchus_1C 1000
+A.platyrhynchus_2C 1000

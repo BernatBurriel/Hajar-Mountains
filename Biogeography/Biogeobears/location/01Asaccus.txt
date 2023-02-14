@@ -1,0 +1,16 @@
+SPECIES	C	E	I	R	W
+A.arnoldi_E	0	1	0	0	0
+A.caudivolvulus_W	0	0	0	0	1
+A.gallagheri_C	1	0	0	0	0
+A.gallagheri_W	0	0	0	0	1
+A.gallagheri_W_R	0	0	0	1	1
+A.gardneri_R	0	0	0	1	0
+A.griseonotus_I	0	0	1	0	0
+A.margaritae_1W	0	0	0	0	1
+A.margaritae_2W	0	0	0	0	1
+A.margaritae_R	0	0	0	1	0
+A.montanus_1C	1	0	0	0	0
+A.montanus_2C	1	0	0	0	0
+A.nasrullahi_I	0	0	1	0	0
+A.platyrhynchus_1C	1	0	0	0	0
+A.platyrhynchus_2C	1	0	0	0	0

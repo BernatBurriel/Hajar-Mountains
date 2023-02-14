@@ -1,0 +1,8 @@
+Name elev lineage
+AO9 635.00000 E.omanensis_C
+CN13358 705.00000 undefined
+CN3266 238.00000 E.omanensis_W_R
+CN3870 202.00000 E.omanensis_E
+CN8350 419.00000 E.omanensis_W_R
+CN8734 200.00000 E.omanensis_W_R
+S1160 50.00000 E.omanensis_E

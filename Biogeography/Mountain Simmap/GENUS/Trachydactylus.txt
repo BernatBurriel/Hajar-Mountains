@@ -1,0 +1,7 @@
+Species	Presence
+Trachydactylus_hajarensis	H
+Trachydactylus_spatalurus	O
+Cyrtopodion_scabrum	O
+Bunopus_crassicauda	O
+Bunopus_tuberculatus	O
+Bunopus_blanfordii	O

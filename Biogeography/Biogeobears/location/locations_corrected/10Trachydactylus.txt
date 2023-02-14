@@ -1,0 +1,5 @@
+4 4 (C E W M)
+T.Hajarensis_W_R 0010
+T.hajarensis_C 1000
+T.hajarensis_Ms 0001
+T.Hajarensis_E 0100

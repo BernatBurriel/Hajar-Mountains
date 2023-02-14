@@ -1,0 +1,5 @@
+SPECIES	E	C	W	R
+P.orlovi_W	0	0	1	0
+P.orlovi_E	1	0	0	0
+P.orlovi_C	0	1	0	0
+P.ruusaljibalicus	0	0	0	1

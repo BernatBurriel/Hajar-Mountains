@@ -1,0 +1,16 @@
+Name	New_name	Out_In
+AGLWE	A.gallagheri_W	in
+AGLWW	A.gallagheri_W_R	in
+AGLCN	A.gallagheri_C	in
+APIN	A.platyrhynchus_1C	in
+APHI	A.platyrhynchus_2C	in
+AA	A.arnoldi_E	in
+MGWC	A.margaritae_1W	in
+MGWE	A.margaritae_2W	in
+MGWW	A.margaritae_R	in
+CAUD	A.caudivolvulus_W	in
+GD	A.gardneri_R	in
+MntCE	A.montanus_1C	in
+MntCW	A.montanus_2C	in
+GRISE	A.griseonotus_I	in
+NASR	A.nasrullahi_I	in

@@ -1,0 +1,4 @@
+SPECIES	E	C	W	R
+P.celerrimus_R	0	0	0	1
+P.celerrimus_C	0	1	0	0
+P.celerrimus_W	0	0	1	0

@@ -1,0 +1,6 @@
+Name	New_name	Out_In
+SPAT	T.spatalurus	out
+WEST	T.Hajarensis_W_R	in
+CENT	T.hajarensis_C	in
+MASI	T.hajarensis_Ms	in
+EAST	T.Hajarensis_E	in

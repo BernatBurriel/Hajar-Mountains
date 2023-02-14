@@ -1,0 +1,13 @@
+SPECIES	C	E	R	W
+P.rupestris_1	1	0	0	0
+P.rupestris_1011	0	0	1	1
+P.rupestris_12	1	0	0	0
+P.rupestris_13	0	1	0	0
+P.rupestris_14	1	0	0	0
+P.rupestris_15	0	1	0	0
+P.rupestris_16	0	1	0	0
+P.rupestris_3	1	1	0	0
+P.rupestris_45	1	0	0	0
+P.rupestris_1	1	0	0	0
+P.rupestris_9	1	0	0	0
+P.rupestris_8	0	1	0	0

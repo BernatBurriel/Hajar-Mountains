@@ -1,0 +1,5 @@
+SPECIES	E	C	W	R
+O.jayakari_E_C	1	1	0	0
+O.jayakari_W_R	0	0	1	1
+O.cyanura_E_C_W	1	1	1	0
+O.cyanura_W_R	0	0	1	1

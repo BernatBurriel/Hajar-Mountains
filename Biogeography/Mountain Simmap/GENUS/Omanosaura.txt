@@ -1,0 +1,12 @@
+Species	Presence
+Acanthodactylus_blanfordii	O
+Acanthodactylus_schmidti	O
+Acanthodactylus_boskianus	O
+Acanthodactylus_opheodurus	O
+Mesalina_adramitana	O
+Mesalina_austroarabica	O
+Mesalina_brevirostris	O
+Omanosaura_jayakari	H
+Podarcis_lilfordi	O
+Podarcis_pityusensis	O
+Omanosaura_cyanura	H

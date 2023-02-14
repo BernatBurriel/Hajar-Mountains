@@ -1,0 +1,17 @@
+Species	Presence
+Ptyodactylus_ananjevae	O
+Ptyodactylus_dhofarensis	O
+Ptyodactylus_guttatus	O
+Ptyodactylus_hasselquistii	O
+Ptyodactylus_orlovi	H
+Ptyodactylus_oudrii	O
+Ptyodactylus_puiseuxi	O
+Ptyodactylus_ragazzii	O
+Ptyodactylus_ruusaljibalicus	H
+Ptyodactylus_siphonorhina	O
+Ptyodactylus_sp1	O
+Ptyodactylus_sp2	O
+Ptyodactylus_sp3	O
+Ptyodactylus_sp4	O
+Ptyodactylus_sp5	O
+Ptyodactylus_togoensis	O

@@ -1,0 +1,7 @@
+Species	Presence
+Pseudotrapelus_aqabensis	O
+Pseudotrapelus_chlodnickii	O
+Pseudotrapelus_dhofarensis	O
+Pseudotrapelus_jensvindumi	H
+Pseudotrapelus_neumanni	O
+Pseudotrapelus_sinaitus	O

@@ -1,0 +1,3 @@
+SPECIES	E	C	W	R
+P.gallagheri_C	0	1	0	0
+P.gallagheri_C	0	1	0	0

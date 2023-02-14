@@ -1,0 +1,14 @@
+Name	New_name	Out_In
+Prup1	P.rupestris_1	in
+Prup1011	P.rupestris_1011	in
+Prup12	P.rupestris_12	in
+Prup13	P.rupestris_13	in
+Prup14	P.rupestris_14	in
+Prup15	P.rupestris_15	in
+Prup16	P.rupestris_16	in
+Prup3	P.rupestris_3	in
+Prup45	P.rupestris_45	in
+Prup67	P.rupestris_67	in
+Prup9	P.rupestris_9	in
+Prup8	P.rupestris_8	in
+Pflav	P.flavipunctatus	out

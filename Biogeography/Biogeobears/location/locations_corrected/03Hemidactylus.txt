@@ -1,0 +1,4 @@
+3 2 (C E)
+H.hajarensis_C 10
+H.hajarensis_E 01
+H.luqueorum_C 10

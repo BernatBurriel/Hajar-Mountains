@@ -1,0 +1,5 @@
+Name	New_name	Out_In
+Jaya_east	O.jayakari_E_C	in
+Jaya_west	O.jayakari_W_R	in
+Oman_cyan_east	O.cyanura_E_C_W	in
+Oman_cyan_west	O.cyanura_W_R	in

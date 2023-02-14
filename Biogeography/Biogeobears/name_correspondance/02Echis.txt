@@ -1,0 +1,5 @@
+Name	New_name	Out_In
+CENTRAL	E.omanensis_C	in
+EAST	E.omanensis_E	in
+coloratus	E.coloratus	out
+WEST	E.omanensis_W_R	in

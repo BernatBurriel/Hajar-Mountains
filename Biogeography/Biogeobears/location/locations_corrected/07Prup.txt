@@ -1,0 +1,13 @@
+12 3 (C E W)
+P.rupestris_1 100
+P.rupestris_1011 001
+P.rupestris_12 100
+P.rupestris_13 010
+P.rupestris_14 100
+P.rupestris_15 010
+P.rupestris_16 010
+P.rupestris_3 010
+P.rupestris_45 100
+P.rupestris_67 010
+P.rupestris_9 100
+P.rupestris_8 010

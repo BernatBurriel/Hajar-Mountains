@@ -1,0 +1,5 @@
+4 2 (CE W)
+O.jayakari_E_C 10
+O.jayakari_W_R 01
+O.cyanura_E_C_W 10
+O.cyanura_W_R 01

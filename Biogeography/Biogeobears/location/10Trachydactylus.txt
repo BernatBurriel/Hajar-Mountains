@@ -1,0 +1,5 @@
+SPECIES	E	C	W	R	M
+T.Hajarensis_W_R	0	0	1	1	0
+T.hajarensis_C	0	1	0	0	0
+T.hajarensis_Ms	0	0	0	0	1
+T.Hajarensis_E	1	0	0	0	0

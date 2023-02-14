@@ -1,0 +1,10 @@
+Species	Presence
+Echis_borkini	O
+Echis_carinatus	O
+Echis_coloratus	O
+Echis_jogeri	O
+Echis_khosatzkii	O
+Echis_leucogaster	O
+Echis_ocellatus	O
+Echis_omanensis	H
+Echis_pyramidum	O

@@ -1,0 +1,4 @@
+3 2 (C W)
+P.celerrimus_R 01
+P.celerrimus_C 10
+P.celerrimus_W 01

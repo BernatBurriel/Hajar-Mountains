@@ -1,0 +1,5 @@
+Name	New_name	Out_In
+RUUS	P.celerrimus_R	in
+CENTRAL	P.celerrimus_C	in
+EASTERN	P.celerrimus_W	in
+SOKO	P.sokotranus	out

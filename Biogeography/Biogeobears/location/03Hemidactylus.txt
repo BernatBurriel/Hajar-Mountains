@@ -1,0 +1,4 @@
+SPECIES	C	E
+H.hajarensis_C	1	0
+H.hajarensis_E	0	1
+H.luqueorum_C	1	0
