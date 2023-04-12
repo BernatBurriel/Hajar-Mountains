@@ -1,4 +1,0 @@
-Name	New_name	Out_In
-UP	P.gallagheri_C	in
-DW	P.gallagheri_C	in
-FLAV	P.flavipunctatus	out

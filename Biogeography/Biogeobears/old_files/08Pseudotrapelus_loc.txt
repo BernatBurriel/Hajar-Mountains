@@ -1,4 +1,0 @@
-3 3 (C E W)
-P.jensvindumi_C 100
-P.jensvindumi_E 010
-P.jensvindumi_R_C 001

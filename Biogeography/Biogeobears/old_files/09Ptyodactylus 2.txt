@@ -1,5 +1,0 @@
-Name	New_name	Out_In
-Orlo_WW	P.orlovi_W	in
-Orlo_EE	P.orlovi_E	in
-Orlo_CC	P.orlovi_C	in
-Ruus_1	P.ruusaljibalicus	in
