@@ -91,9 +91,9 @@ outer, edges, grid, _ = prepare_graph_inputs(coord=coord,
 sp_graph = SpatialGraph(genotypes, coord, grid, edges, scale_snps=True)
 
 #  This might take a few minutes to construct at first b/c it initializing a number of graph matrices that are slow to build. 
-# First, before any fitting we’ll visualize the graph and samples. Let’s setup the projection we’ll be using for this dataset:
+# First, before any fitting we’ll visualize the graph and samples. Let’s set up the projection we’ll be using for this dataset:
 
-projection = ccrs.EquidistantConic(central_longitude= 57.27097 , central_latitude=23.44036 ) # fixed into te cener of the Hajars buffer30km
+projection = ccrs.EquidistantConic(central_longitude= 57.27097 , central_latitude=23.44036 ) # fixed into the center of the Hajars buffer30km
 
 # plot several lambdas
 # fit
