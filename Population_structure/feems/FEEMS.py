@@ -209,5 +209,5 @@ v = Viz(ax, sp_graph, projection=projection, edge_width=.5,
         obs_node_size=7.5, sample_pt_color="black", 
         cbar_font_size=10)
         
-# export to geojson
+# export to shapefile
 v.to_shapefile("FILENAME.bestCV.shp")
