@@ -7,10 +7,10 @@ library(sf)
 library(sp)
 
 
-## Construct a grid that spaces around 10km between centroids
+## Construct a grid that spaces around 5km between centroids
 tst <- dgconstruct(topology = "TRIANGLE", res = 15, metric = T, aperture = 4, resround = "down")
 dggetres(tst)
-# From the starting Discrete Global Grid, get the resolution needed to have a spacing of around 10km
+# From the starting Discrete Global Grid, get the resolution needed to have a spacing of around 5km
 res <- dg_closest_res_to_spacing(tst,spacing=5,round='down',metric=T)
 # Convert the DGG with the calculated resolution
 dggs <- dgsetres(tst,res)
